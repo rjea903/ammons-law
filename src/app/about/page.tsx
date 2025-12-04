@@ -60,7 +60,7 @@ export default function AboutPage() {
               securities portfolios, including government bonds, structured products, and derivatives.
             </p>
             <p className="leading-relaxed mb-6">
-              When RJ decided to start working as a trial lawyer for people, RJ moved back to
+              When RJ decided to start working as a trial lawyer, RJ moved back to
               Waco and practiced at Dunnam &amp; Dunnam for a year, where he gained exposure to
               all areas of the firm&apos;s general practice.
             </p>
