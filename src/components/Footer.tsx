@@ -14,13 +14,7 @@ export default function Footer() {
               Ammons Law Offices, PLLC
             </p>
             <p className="text-gray-300 text-sm">
-              Waco, Texas
-            </p>
-            <p className="text-gray-300 text-sm">
-              Houston, Texas
-            </p>
-            <p className="text-gray-300 text-sm">
-              Dallas, Texas
+              Texas
             </p>
           </div>
 
